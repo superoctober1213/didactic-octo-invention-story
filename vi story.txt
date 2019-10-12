@@ -1,0 +1,23 @@
+[33mcommit 5e513c8d232ff1fc482b4004e2927edfb670eef2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Xiaoyuan Liu <xiaoyuanl@emperor-07.cs.wisc.edu>
+Date:   Fri Oct 11 20:51:15 2019 -0500
+
+    <xiaoyuan> addition
+
+[33mcommit d20c059d5c648355df4d68be3940759dacd0b669[m
+Author: Smith Sukcharoenyingyong <sukcharoenyingyong@royal-16.cs.wisc.edu>
+Date:   Fri Oct 11 20:40:06 2019 -0500
+
+    Oat addition
+
+[33mcommit fdb10d06b0475ea70b88fa1b91ddd249dfdda2f8[m
+Author: Claire Jones <cjones@emperor-04.cs.wisc.edu>
+Date:   Fri Oct 11 20:29:43 2019 -0500
+
+    <Claire> addition
+
+[33mcommit dcd32c873042189051f7f7920ae73882ecc25310[m
+Author: Yuxuan Zhang <yuxuanz@snares-06.cs.wisc.edu>
+Date:   Fri Oct 4 20:54:11 2019 -0500
+
+    first paragraph
